@@ -16,11 +16,18 @@
 </div>]]></content>
   </entry>
   <entry>
-    <title></title>
-    <url>/posts/0.html</url>
-    <content><![CDATA[<hr>
-<h2 id="title：又是一篇水文"><a href="#title：又是一篇水文" class="headerlink" title="title：又是一篇水文"></a>title：又是一篇水文</h2><div class="story post-story"><p>啦啦啦</p>
+    <title>github图床之弃用jsd(图床使用npm镜像加速)</title>
+    <url>/posts/34886.html</url>
+    <content><![CDATA[<p>啦啦啦</p>
 
-</div>]]></content>
+]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>cdn</tag>
+        <tag>加速</tag>
+      </tags>
   </entry>
 </search>

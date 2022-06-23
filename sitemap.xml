@@ -9,7 +9,7 @@
   </url>
   
   <url>
-    <loc>https://dadaaua.github.io/posts/0.html</loc>
+    <loc>https://dadaaua.github.io/posts/34886.html</loc>
     
     <lastmod>2022-06-23</lastmod>
     
@@ -24,6 +24,34 @@
   </url>
 
   
+  <url>
+    <loc>https://dadaaua.github.io/tags/hexo/</loc>
+    <lastmod>2022-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dadaaua.github.io/tags/cdn/</loc>
+    <lastmod>2022-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dadaaua.github.io/tags/%E5%8A%A0%E9%80%9F/</loc>
+    <lastmod>2022-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://dadaaua.github.io/categories/hexo/</loc>
+    <lastmod>2022-06-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
